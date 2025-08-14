@@ -1,0 +1,26 @@
+Business Source License 1.1
+
+Parameters
+Licensor:            HomeCloudHQ
+Licensed Work:       EnvRelay – source code and related files
+Additional Use Grant: You may use, copy, modify, and distribute the Licensed Work,
+                      in source or object form, for any purpose, except as noted below.
+Change Date:         10 years from the date you first release this file
+Change License:      Apache License 2.0
+
+Usage Restrictions
+You may not:
+- Offer the Licensed Work as a hosted or managed service where it competes with EnvRelay.
+- Remove, alter, or obscure any licensing notices in copies of the Licensed Work.
+- Use the Licensor’s trademarks without permission.
+
+On the Change Date, this License will convert automatically to the Change License.
+
+This License does not grant you trademark rights, and does not waive any rights the Licensor
+may have under trademark law or other laws.
+
+Terms
+This License is governed by the Business Source License 1.1 text at:
+https://mariadb.com/bsl11/
+
+By using the Licensed Work, you agree to these terms.
